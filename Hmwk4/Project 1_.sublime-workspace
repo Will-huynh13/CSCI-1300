@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"res",
+				"restaurantRoutes"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"Acce",
+				"Access-Control-Allow-Origin"
+			],
+			[
+				"pro",
+				"productId"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"prou",
+				"productRoutes"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"user",
+				"userHashTable"
+			],
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"b",
+				"Blah"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"v",
+				"vector\tstd::vector"
+			],
+			[
+				"a",
+				"addVertex\tvoid addVertex(int cityName)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Project 1_.cpp",
+			"settings":
+			{
+				"buffer_size": 6575,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"EasyClangComplete: Show all errors"
+			],
+			[
+				"cmake",
+				"Set Syntax: CMake"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"eas",
+				"EasyClangComplete: Show all errors"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"uni",
+				"EasyClangComplete: Show popup info"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 281.0,
+		"history":
+		[
+			"clear",
+			"cls",
+			"Config.set_library_path()",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/William's Laptop/Documents/CompSci/Cloud 9 (CSCI1300)/Hmwk4"
+	],
+	"file_history":
+	[
+		"/C/Users/William's Laptop/Documents/testing.cpp",
+		"/C/Users/William's Laptop/test.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterms/Midterm 2/Problem1.cpp",
+		"/C/Users/William's Laptop/test",
+		"/C/Users/William's Laptop/hi",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterms/Midterm 2/Heapsort.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterms/Midterm 2/BST.hpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework8 (Priority Queues)/Driver.cpp",
+		"/C/Users/William&amp;#39;s Laptop/Documents/CompSci/Homeworks/Homework6 (Binary Search Tree Deletion)/Driver.cpp",
+		"/C/Users/William&amp;#39;s Laptop/Documents/CompSci/Homeworks/Homework3 (LinkedLists)/main.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework8 (Priority Queues)/PriorityQue.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework2 (Dynamic Memory)/Homework2.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/ComputerScience.sublime-project",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework6 (Binary Search Tree Deletion)/MovieTree.cpp",
+		"/C/Users/William's Laptop/Documents/RestaruantServer/package.json",
+		"/C/Users/William's Laptop/Documents/RestaruantServer/binding.gyp",
+		"/C/Users/William's Laptop/Documents/RestaruantServer/binding.cpp",
+		"/C/Users/William's Laptop/Documents/RestaruantServer/api/routes/restaurants.js",
+		"/C/Users/William's Laptop/Documents/RestaruantServer/server.js",
+		"/C/Users/William's Laptop/Documents/RestaruantServer/app.js",
+		"/C/Users/William's Laptop/Documents/JsonReader/app.js",
+		"/C/Users/William's Laptop/Documents/Node-Web/api/routes/products.js",
+		"/C/Users/William's Laptop/Documents/Node-Web/api/routes/orders.js",
+		"/C/Users/William's Laptop/Documents/Node-Web/app.js",
+		"/C/Users/William's Laptop/Documents/Node-Web/api/models/product.js",
+		"/C/Users/William's Laptop/Documents/Node-Web/nodemon.json",
+		"/C/Users/William's Laptop/Documents/Node-Web/package.json",
+		"/C/Users/William's Laptop/Documents/Node-Web/server.js",
+		"/C/Users/William's Laptop/Documents/Node-Web/package.sublime-project",
+		"/C/Users/William's Laptop/Documents/CompSci/FinalProject/.webjson",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework7 (HashTables)/HashTable.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework7 (HashTables)/Driver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Corenshit/Hash.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Corenshit/driver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Corenshit/Hash.hpp",
+		"/C/Users/William's Laptop/Documents/CompSci/FinalProject/finalProject.cpp",
+		"/C/Users/William&amp;#39;s Laptop/Documents/CompSci/FinalProject/finalProject.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/FinalProject/finalProjectDriver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/FinalProject/finalProject.h",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework5 (Binary Tree)/BinaryTree.cpp",
+		"/C/Users/William's Laptop/AppData/Roaming/Sublime Text 3/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+		"/C/Users/William's Laptop/AppData/Roaming/Sublime Text 3/Packages/User/EasyClangComplete.sublime-settings",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework5 (Binary Tree)/MovieTree.hpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework5 (Binary Tree)/MovieTreeDriver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/FinalProject/resturants.csv",
+		"/C/Users/William's Laptop/Documents/CompSci/FinalProject/API.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework9 (Graphs)/graphs.sublime-project",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework9 (Graphs)/Graph.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework9 (Graphs)/Graph.hpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homeworks/Homework9 (Graphs)/Driver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Randomstuff/Calsita2.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterms/Midterm 2 starter codes/graphs.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterm 2 starter codes/graphs.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homework5 (Binary Tree)/BinaryTree.cpp",
+		"/C/Users/William's Laptop/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/William's Laptop/Documents/CompSci/Homework9 (Graphs)/Graph.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterm 2 starter codes/heaps.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterm 2 starter codes/hash.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Rec12 (Graphs)/Graph.cpp",
+		"/C/Users/William&amp;#39;s Laptop/Documents/CompSci/Midterm Notes/Graphs/bfs-modified.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Rec9 (HashTables)/hash.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homework9 (Graphs)/Driver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homework3 (LinkedLists)/CountryNetwork.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Cloud 9 (CSCI1300)/Split and read in file.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Homework6 (Binary Search Tree Deletion)/Driver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Midterm 2 starter codes/BST.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Rec9 (HashTables)/driver.cpp",
+		"/C/Users/William's Laptop/Documents/CompSci/Testing.sublime-workspace",
+		"/C/Users/William's Laptop/Desktop/test.cpp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Project 1_.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2077,
+								2077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Project 1_.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\William's Laptop\\Documents\\CompSci\\ComputerScience.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
